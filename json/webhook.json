@@ -1,0 +1,35 @@
+{
+    "id": "10187225-PW-PSE",
+    "amount": 1000,
+    "externalorder": "01893-88841-100625-00001-00002",
+    "ip": "104.28.92.41",
+    "fullname": "",
+    "jsonresponse": "{\"MESSAGE\":\"Información obtenida correctamente.\",\"STATUS\":true,\"ID\":\"10187225-PW-PSE\",\"CODE\":\"1544149565\",\"PRICE\":5000,\"DATA\":{\"returnCode\":\"SUCCESS\",\"errorDetails\":null,\"trazabilityCode\":\"1544149565\",\"ticketId\":\"10187225\",\"entityCode\":\"9011569983\",\"financialInstitutionCode\":\"1007\",\"serviceCode\":\"9011569983\",\"transactionValue\":\"5000.0\",\"vatValue\":\"0.0\",\"soliciteDate\":\"2025-06-10T00:00:00\",\"bankProcessDate\":\"2025-06-10T13:02:15\",\"transactionCycle\":\"4\",\"transactionState\":\"OK\",\"authorizationID\":\"100620251300549565\",\"serviceNIT\":\"9011569983\",\"serviceName\":\"Payments Bakery Colombia S.A.S\",\"userType\":\"person\",\"paymentDescription\":\"Payments Way Merchant\",\"referenceNumber1\":\"01\",\"referenceNumber2\":\"901643475\",\"referenceNumber3\":\"249\",\"paymentOrigin\":\"3\",\"paymentMode\":\"15\",\"identificationType\":\"CedulaDeCiudadania\",\"identificationNumber\":\"1001470143\",\"fullName\":\"Luis Alvarez\",\"cellphoneNumber\":\"3043953888\",\"address\":\"cra58b\",\"email\":\"luismidev09@gmail.com\"}}",
+    "additionaldata": {
+        "message": "{\"reference3\":4,\"reference4\":\"RC\",\"reference5\":{\"phone_number\":\"3043953888\",\"product_id\":\"42\",\"id_transaction\":1033},\"reference\":\"Recarga 1\"}",
+        "descripcion_pago": "Recarga 1"
+    },
+    "idstatus": {
+        "id": 34,
+        "nombre": "Exitosa"
+    },
+    "idperson": {
+        "id": "1848249",
+        "firstname": "Luis Miguel",
+        "lastname": "Alvarez Marin",
+        "identification": "1001470143",
+        "email": "luismidev09@gmail.com",
+        "phone": "3043953888"
+    },
+    "paymentmethod": {
+        "id": 2,
+        "nombre": "PSE"
+    },
+    "idsubscripcion": null,
+    "idlinkpago": {
+        "id": "88841",
+        "redirectLink": ""
+    },
+    "idmerchant": "2567",
+    "innerexception": null
+}
